@@ -1,0 +1,4 @@
+- éditeur de texte (pour coder) : https://www.sublimetext.com/
+
+- versionning ou gestion de version : https://git-scm.com/
+
